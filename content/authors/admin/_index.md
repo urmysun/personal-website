@@ -27,33 +27,27 @@ interests:
 
 education:
   courses:
-  - course: "MSc in Experimental Medicine, GPA: 89.8%"
+  - course: MSc in Experimental Medicine
     institution: "the University of British Columbia, Vancouver"
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: "2020 (In Progress)"
+  - course: BSc in Computer Science & Statistics
+    institution: "the University of British Columbia, Vancouver"
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: "https://www.linkedin.com/in/shawnliuxiang/"  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/urmysun
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.ca/citations?user=jR0eslwAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -61,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,6 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Xiang Liu (pronounced "Shawn Lew"), an M.Sc. student at the Non-Invasive Neurostimulation Therapies (NINET) Lab, the University of British Columbia, co-supervised by Dr. Fidel Vila-Rodriguez (M.D., Ph.D., FRCPC, FAPA) and Dr. Z. Jane Wang (Ph.D., IEEE Fellow, FCAE). My research interests include machine learning, data mining, computer vision, and neuroimaging. I am particularly focusing on developing interpretable machine learning models to solve medical problems. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Previously, I completed my B.Sc. (Combined Major in Computer Science and Statistics) at the University of British Columbia. Before moving to Canada, I was born and raised up in Chengdu. I graduated from Chengdu No. 7 High School in 2011.
