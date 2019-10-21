@@ -3,14 +3,14 @@
 title = "Image Caption"
 
 # Date this page was created.
-date = 2016-04-27T00:00:00
+date = 2019-10-20T00:00:00
 
 # Project summary to display on homepage.
 summary = "An PyTorch encoder-decoder model to automatically generate captions for images based on 'Show and Tell: A Neural Image Caption Generator'"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learningemo"]
+tags = ["deep-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://xiangliu.ca/image-caption"
