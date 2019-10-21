@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Xiang Liu
 
 # Username (this should match the folder name)
 authors:
@@ -10,25 +10,25 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Medical Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: the University of British Columbia
+  url: "https://ninet.med.ubc.ca/person/xiang-liu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, data mining, computer vision, and neuroimaging.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Mining
+- Computer Vision
+- Neuroimaging
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: "MSc in Experimental Medicine, GPA: 89.8%"
+    institution: "the University of British Columbia, Vancouver"
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
