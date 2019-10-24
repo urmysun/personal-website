@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Image Caption</title>
+    <title>Xiang's Image Caption Project</title>
     <link rel="stylesheet" href="./css/select_image.css">
 </head>
 
@@ -22,9 +22,14 @@
         <h1 class="text-white bg-dark"> Image Caption</h1>
         <h1 class="text-success"> Image Caption</h1>
         <h1 class="bg-light"> Image Caption</h1> -->
-        <h1 class="display-3"> Image Caption Demo</h1>
+        <h1 class="display-3"> Image Caption</h1>
         <!-- <button class = "btn btn-primary mx-xl-5 mb-xs-5"> <p class="display-4"> Select Image </p> </button>
         <button class = "btn btn-primary mx-xl-5 mt-xs-5"> <p class="display-4"> Upload Image </p> </button> -->
+
+        <div class="alert alert-warning">
+            <p>It may take up to <strong>10 seconds</strong> to load our predicting model if you're uploading your first image.</p>
+            <p>Please wait patiently! It will be <strong>much faster</strong> for the following images.</p> 
+    </div>
         <div class="ml-auto col-sm-auto">
             <form method="post" id="image-form">
                 <input type="file" id = "file" name="img[]" accept="image/*">
