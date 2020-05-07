@@ -18,6 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Development Engineer"
+  company = "Amazon Web Service (AWS)"
+  company_url = ""
+  location = "Vancouver"
+  date_start = "2020-07-27"
+  date_end = ""
+  description = """
+  <!-- * Lead (as co-first author) a large-scale (40TB) human brain network analysis project using high-resolution functional MRI
+  * Accelerate neuroimage analysis 30 times by cloud-based parallel computing on Advanced Research Computing System
+  * Provide machine learning methodology and implementation consulting to medical collaborators and researchers
+  * Collect, process, and manage research data, organize workshops, and contribute to manuscript writing and grant applications -->
+  """
+
+[[experience]]
   title = "Graduate Research Assistant"
   company = "the University of British Columbia"
   company_url = ""

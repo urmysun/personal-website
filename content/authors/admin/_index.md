@@ -28,6 +28,7 @@ interests:
 - Neuroimaging
 
 education:
+course:
   - course: MSc in Computer Science
     institution: "the Georgia Institute of Technology, Part-time/Online"
     year: "2024 (Expect)"
