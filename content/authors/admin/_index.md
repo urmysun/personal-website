@@ -14,19 +14,23 @@ role: Medical Machine Learning Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: the University of British Columbia
-  url: "https://ninet.med.ubc.ca/person/xiang-liu/"
+- name: AWS
+# - name: the University of British Columbia
+#   url: "https://ninet.med.ubc.ca/person/xiang-liu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, data mining, computer vision, and neuroimaging.
 
 interests:
+- Software Development
 - Data Mining
 - Computer Vision
 - Neuroimaging
 
 education:
-  courses:
+  - course: MSc in Computer Science
+    institution: "the Georgia Institute of Technology, Part-time/Online"
+    year: "2024 (Expect)"
   - course: MSc in Experimental Medicine
     institution: "the University of British Columbia, Vancouver"
     year: "2020 (In Progress)"
@@ -45,9 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/urmysun
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.ca/citations?user=jR0eslwAAAAJ&hl=en
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.ca/citations?user=jR0eslwAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -64,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I am Xiang Liu (pronounced "Shawn Lew"), an M.Sc. student at the Non-Invasive Neurostimulation Therapies (NINET) Lab, the University of British Columbia, co-supervised by Dr. Fidel Vila-Rodriguez (M.D., Ph.D., FRCPC, FAPA) and Dr. Z. Jane Wang (Ph.D., IEEE Fellow, FCAE). My research interests include machine learning, data mining, computer vision, and neuroimaging. I am particularly focusing on developing interpretable machine learning models to solve medical problems. 
+My name is Xiang Liu (pronounced "Shawn Lew"). I am an M.Sc. student at the Non-Invasive Neurostimulation Therapies (NINET) Lab, the University of British Columbia, co-supervised by Dr. Fidel Vila-Rodriguez (M.D., Ph.D., FRCPC, FAPA) and Dr. Z. Jane Wang (Ph.D., IEEE Fellow, FCAE). My research interests include machine learning, data mining, computer vision, and neuroimaging. I am particularly focusing on developing interpretable machine learning models to solve medical problems.
 
 Previously, I completed my B.Sc. (Combined Major in Computer Science and Statistics) at the University of British Columbia. Before moving to Canada, I was born and raised up in Chengdu. I graduated from Chengdu No. 7 High School in 2011.
