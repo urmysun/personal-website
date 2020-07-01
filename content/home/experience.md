@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Amazon Web Service (AWS)"
   company_url = ""
   location = "Vancouver"
-  date_start = "2020-07-27"
+  date_start = "2020-10-01"
   date_end = ""
   description = """
   <!-- * Lead (as co-first author) a large-scale (40TB) human brain network analysis project using high-resolution functional MRI
@@ -37,7 +37,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Vancouver"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-07-30"
   description = """
   * Lead (as co-first author) a large-scale (40TB) human brain network analysis project using high-resolution functional MRI
   * Accelerate neuroimage analysis 30 times by cloud-based parallel computing on Advanced Research Computing System
