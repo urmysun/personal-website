@@ -17,14 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Software Development Engineer"
-  company = "Amazon Web Service (AWS)"
-  company_url = ""
-  location = "Vancouver"
-  date_start = "2020-10-01"
-  date_end = ""
-  description = """
+# [[experience]]
+#  title = "Software Development Engineer"
+#  company = "Amazon Web Service (AWS)"
+#  company_url = ""
+#  location = "Vancouver"
+#  date_start = "2020-10-01"
+#  date_end = ""
+#  description = """
   <!-- * Lead (as co-first author) a large-scale (40TB) human brain network analysis project using high-resolution functional MRI
   * Accelerate neuroimage analysis 30 times by cloud-based parallel computing on Advanced Research Computing System
   * Provide machine learning methodology and implementation consulting to medical collaborators and researchers
